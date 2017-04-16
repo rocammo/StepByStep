@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StepByStep:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StepByStep_jar</output-path>
+    <root id="archive" name="StepByStep.jar">
+      <element id="module-output" name="StepByStep" />
+    </root>
+  </artifact>
+</component>
